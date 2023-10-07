@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:13:48:36 -0300] "GET / HTTP/1.1" 200 57 http-bio-8080-exec-1 651
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:13:48:36 -0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:13:57:45 -0300] "GET / HTTP/1.1" 200 244 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:13:57:52 -0300] "POST /create-car HTTP/1.1" 404 971 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:13:58:46 -0300] "POST /create-car HTTP/1.1" 404 971 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:14:01:45 -0300] "POST /create-car HTTP/1.1" 404 971 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:14:03:13 -0300] "POST /create-car HTTP/1.1" 404 971 http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:14:03:25 -0300] "POST /create-car HTTP/1.1" 404 971 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:14:03:27 -0300] "POST /create-car HTTP/1.1" 404 971 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:21:21:21 -0300] "GET / HTTP/1.1" 200 236 http-bio-8080-exec-1 110
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:21:21:28 -0300] "POST /create-car HTTP/1.1" 200 236 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:21:21:44 -0300] "POST /create-car HTTP/1.1" 200 236 http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:21:22:05 -0300] "POST /create-car HTTP/1.1" 200 236 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:21:22:37 -0300] "POST /create-car HTTP/1.1" 200 236 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [23/Sep/2023:21:23:00 -0300] "POST /create-car HTTP/1.1" 200 236 http-bio-8080-exec-10 2
