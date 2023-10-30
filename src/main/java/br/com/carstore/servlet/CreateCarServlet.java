@@ -1,7 +1,7 @@
-package br.com.carstore.servlet;
+package br.com.carStore.servlet;
 
-import br.com.carstore.dao.CarDao;
-import br.com.carstore.model.Car;
+import br.com.carStore.dao.CarDao;
+import br.com.carStore.model.Car;
 
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
